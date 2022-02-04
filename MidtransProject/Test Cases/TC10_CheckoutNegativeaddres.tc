@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10_CheckoutNegativeaddres</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc54061a-ab59-49b4-bb7f-709610b40132</testCaseGuid>
+</TestCaseEntity>

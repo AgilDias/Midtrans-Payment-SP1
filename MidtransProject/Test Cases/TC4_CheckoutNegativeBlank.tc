@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4_CheckoutNegativeBlank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b27686b8-3759-4da4-af7f-d07edcae21d3</testCaseGuid>
+</TestCaseEntity>

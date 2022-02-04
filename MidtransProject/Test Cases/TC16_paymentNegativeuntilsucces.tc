@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC16_paymentNegativeuntilsucces</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43659256-20a2-4a6c-ba01-d1e6e12cb971</testCaseGuid>
+</TestCaseEntity>

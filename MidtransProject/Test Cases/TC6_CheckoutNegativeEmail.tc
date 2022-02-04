@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6_CheckoutNegativeEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8d1901f-b537-41e8-b566-5349f7cd73e1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC8_CheckoutNegativephonedigit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3478fdd7-30a9-4b4a-9a5a-39bdff70b770</testCaseGuid>
+</TestCaseEntity>
